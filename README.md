@@ -15,6 +15,14 @@ This directory contains the completed solution files for the HTML and CSS implem
 | `js/profile.js` | Profile logic |
 
 
+## Photo References
+### Leaderboard
+![Profile Page Reference](references/leaderboard.png)
+
+### Profile
+![Profile Page Reference](references/profile.png)
+
+
 ## How to Help Students
 
 ### Option 1: Direct Viewing
