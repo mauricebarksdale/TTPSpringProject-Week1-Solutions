@@ -14,30 +14,20 @@ This directory contains the completed solution files for the HTML and CSS implem
 | `js/leaderboard.js` | Leaderboard logic |
 | `js/profile.js` | Profile logic |
 
-## Usage
 
-These solutions can be used by instructors to:
-
-1. **Verify student work** - Compare student implementations against the solutions
-2. **Grade assignments** - Use as reference for expected HTML/CSS structure
-3. **Troubleshooting** - Help students who are stuck on specific implementation details
-
-## How to Use with Students
+## How to Help Students
 
 ### Option 1: Direct Viewing
 Open `index.html` or `profile.html` in your browser to see the fully implemented version.
 
 ### Option 2: Compare with Student Work
-Open the solution files side-by-side with student work to compare:
+Open the solution files and photo reference side-by-side with student work to compare:
 - HTML structure
 - CSS styling
 - JavaScript functionality
 
 ### Option 3: Reference Only
 Keep solutions in this directory and reference specific sections when answering student questions.
-
-### Option 4: Release After Submission
-Share solution files after students have submitted their work for review.
 
 ## Key Differences from Student Files
 
@@ -49,14 +39,3 @@ Share solution files after students have submitted their work for review.
 **Solution files** (this directory):
 - All CSS properties are completed
 - Fully styled and functional
-
-## Testing Solutions
-
-```bash
-# From project root
-python -m http.server 8000
-
-# Then visit:
-# http://localhost:8000/docs/instructor-solutions/index.html
-# http://localhost:8000/docs/instructor-solutions/profile.html
-```
