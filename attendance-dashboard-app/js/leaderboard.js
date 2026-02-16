@@ -14,9 +14,9 @@ function renderLeaderboard() {
     var rowsHtml = mockLeaderboardData.map(function(entry) {
         return '<tr>' +
             '<td>' + entry.username + '</td>' +
-            '<td>' + getYearLabel(entry.year) + '</td>' +
-            '<td>' + getMajorLabel(entry.major) + '</td>' +
-            '<td>' + getClubLabel(entry.main_club) + '</td>' +
+            '<td>' + entry.year + '</td>' +
+            '<td>' + entry.major + '</td>' +
+            '<td>' + entry.main_club + '</td>' +
             '<td>' + entry.num_events_attended + '</td>' +
         '</tr>';
     }).join('');

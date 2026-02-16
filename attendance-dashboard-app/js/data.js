@@ -19,13 +19,3 @@ const mockLeaderboardData = [
     { username: 'rashidawilliams', year: 'Sophomore', major: 'Computer Science', main_club: 'Black Engineer Society', num_events_attended: 25 },
     { username: 'tianahaarris', year: 'Junior', major: 'Electrical Engineering', main_club: 'CodeBlack', num_events_attended: 34 },
 ];
-
-const mockUserProfile = {
-    username: 'studentuser',
-    year: 'Junior',
-    major: 'Computer Science',
-    main_club: 'Black Engineer Society',
-    num_events_attended: 27,
-    email: 'studentuser@example.com',
-    avatar_url: '/avatars/default.png',
-};
